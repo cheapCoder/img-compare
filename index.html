@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    div {
+      display: inline-flex;
+      gap: 20px;
+      padding-bottom: 20px;
+      align-items: center;
+      width: 48%;
+      height: 30px;
+      border-right: 1px solid #ccc;
+    }
+  </style>
+</head>
+
+<body>
+  <script type="module">
+    import matches from "./record/match.json" assert {type: "json"};
+
+    function render() {
+      const imgStr = Object.entries(matches)
+        .map(
+          ([oldname, [newname, rate]]) => `  
+            <div>
+              <img src="./old_svg/${oldname}" style="height: 100%" alt="oldname">
+              <span style="color:${rate < 20 ? "#21a470" : "#eb4646"}">${rate}%</span>
+              <img src="./new_svg/${newname}" style="height: 100%" alt="">
+            </div>`
+        )
+        .join("\n");
+
+      document.body.innerHTML += imgStr
+
+    }
+
+    render()
+
+  </script>
+</body>
+
+</html>

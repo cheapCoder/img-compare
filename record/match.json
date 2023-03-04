@@ -1,0 +1,410 @@
+{
+  "AcceptOutlined.svg": [
+    "ChevronDownOutlined.svg",
+    28.515625
+  ],
+  "AccountManagementOutlined.svg": [
+    "CalendarTimeOutlined.svg",
+    62.109375
+  ],
+  "AccountTransferFilled.svg": [
+    "FileFilled.svg",
+    23.4375
+  ],
+  "AccountFilled.svg": [
+    "EnableSelectionFilled.svg",
+    30.46875
+  ],
+  "AccountOutlined.svg": [
+    "ColumnOutlined.svg",
+    58.59375
+  ],
+  "AddPictureOutlined.svg": [
+    "AnalyticsOutlined.svg",
+    49.21875
+  ],
+  "AdsManagementFilled.svg": [
+    "VideoFilled.svg",
+    42.578125
+  ],
+  "AdsManagementOutlined.svg": [
+    "MediaLibraryFilled.svg",
+    60.15625
+  ],
+  "AdvancedSearchOutlined.svg": [
+    "CropOutlined.svg",
+    43.359375
+  ],
+  "AffirmOutlined.svg": [
+    "CircleRightFilled.svg",
+    33.203125
+  ],
+  "AmazonOutlined.svg": [
+    "CircleOutlined.svg",
+    50.78125
+  ],
+  "BackOutlined.svg": [
+    "ArrowLeftOutlined.svg",
+    0
+  ],
+  "BulkEditOutlined.svg": [
+    "AddDomainOutlined.svg",
+    36.328125
+  ],
+  "BundlePricingFilled.svg": [
+    "EnableSelectionFilled.svg",
+    50.390625
+  ],
+  "BundlePricingOutlined.svg": [
+    "PluginScanOutlined.svg",
+    57.8125
+  ],
+  "BundleSalesFilled1Outlined.svg": [
+    "RadioSelectionFilled.svg",
+    13.671875
+  ],
+  "BundleSalesFilled.svg": [
+    "ReviewsFilled.svg",
+    51.953125
+  ],
+  "BundleSalesOutlined.svg": [
+    "PluginScanOutlined.svg",
+    59.375
+  ],
+  "CODOutlined.svg": [
+    "ArrowLeftOutlined.svg",
+    58.203125
+  ],
+  "CampaignCreationFilled.svg": [
+    "OnlineStoreFilled.svg",
+    39.453125
+  ],
+  "CancelAuthorizeOutlined.svg": [
+    "PullUpOutlined.svg",
+    53.90625
+  ],
+  "CancelDeliveryOutlined.svg": [
+    "ActivateOutlined.svg",
+    60.15625
+  ],
+  "CardOutlined.svg": [
+    "CropOutlined.svg",
+    42.96875
+  ],
+  "CircleTickFilled1Outlined.svg": [
+    "EnableSelectionFilled.svg",
+    21.875
+  ],
+  "CorporateFilled.svg": [
+    "ArchiveFilled.svg",
+    31.25
+  ],
+  "CouponCodeFilled.svg": [
+    "AddOutlined.svg",
+    21.09375
+  ],
+  "DlocalOutlined.svg": [
+    "MobileVerticalDotsOutlined.svg",
+    36.71875
+  ],
+  "EditHeaderOutlined.svg": [
+    "MaximizeOutlined.svg",
+    51.171875
+  ],
+  "EditOutlined.svg": [
+    "AddDomainOutlined.svg",
+    24.21875
+  ],
+  "EmialOutlined.svg": [
+    "EmialFilled.svg",
+    50.78125
+  ],
+  "ExpandMenuLeftOutlined.svg": [
+    "PlusOutlined.svg",
+    41.015625
+  ],
+  "ExpandMenuRightOutlined.svg": [
+    "PlusOutlined.svg",
+    39.84375
+  ],
+  "ExpandMenuOutlined.svg": [
+    "PlusOutlined.svg",
+    41.796875
+  ],
+  "Filter1Outlined.svg": [
+    "FilterOutlined.svg",
+    0
+  ],
+  "FlashlightFilled.svg": [
+    "FlashlightOutlined.svg",
+    16.796875
+  ],
+  "FolderOutlined.svg": [
+    "CalendarOutlined.svg",
+    50.78125
+  ],
+  "FullscreenExitOutlined.svg": [
+    "DropdownOutlined.svg",
+    32.8125
+  ],
+  "FullscreenThemeOutlined.svg": [
+    "MaximizeOutlined.svg",
+    39.84375
+  ],
+  "FullscreenOutlined.svg": [
+    "DropdownOutlined.svg",
+    36.71875
+  ],
+  "FunctionsFilled.svg": [
+    "ReviewsFilled.svg",
+    42.1875
+  ],
+  "FunctionsOutlined.svg": [
+    "PluginScanOutlined.svg",
+    54.6875
+  ],
+  "GiftWithPurchaseOutlined.svg": [
+    "CirclePlusOutlineOutlined.svg",
+    44.921875
+  ],
+  "GridViewOutlined.svg": [
+    "AppsFilled.svg",
+    10.546875
+  ],
+  "GuideOutlined.svg": [
+    "CircleOutlined.svg",
+    33.203125
+  ],
+  "HomepageFilled.svg": [
+    "HomeFilled.svg",
+    17.96875
+  ],
+  "LightningFilled.svg": [
+    "CircleOutlined.svg",
+    21.875
+  ],
+  "LiveFilled.svg": [
+    "CameraOutlined.svg",
+    42.578125
+  ],
+  "LogOutOutlined.svg": [
+    "ActivateOutlined.svg",
+    29.6875
+  ],
+  "ManageStoreOutlined.svg": [
+    "DataOutlined.svg",
+    58.203125
+  ],
+  "MediaLibraryOutlined.svg": [
+    "MediaLibraryFilled.svg",
+    38.28125
+  ],
+  "MemberCenterFilled.svg": [
+    "ChatFilled.svg",
+    37.5
+  ],
+  "MemberCenterOutlined.svg": [
+    "CalendarOutlined.svg",
+    54.6875
+  ],
+  "MembershipFilled.svg": [
+    "CircleUpFilled.svg",
+    15.234375
+  ],
+  "MenuOutlined.svg": [
+    "PlusOutlined.svg",
+    35.9375
+  ],
+  "MessngerFilled.svg": [
+    "ChatFilled.svg",
+    10.546875
+  ],
+  "MoveOutlined.svg": [
+    "CalendarTimeOutlined.svg",
+    53.125
+  ],
+  "MultiCurrencyFilled.svg": [
+    "CircleRightFilled.svg",
+    17.578125
+  ],
+  "MultilingualFilled.svg": [
+    "EnableSelectionFilled.svg",
+    37.109375
+  ],
+  "NewsOutlined.svg": [
+    "RefreshOutlined.svg",
+    43.359375
+  ],
+  "OtherThemeOutlined.svg": [
+    "MaximizeOutlined.svg",
+    47.65625
+  ],
+  "PauseFilled.svg": [
+    "DropdownFilled.svg",
+    27.34375
+  ],
+  "PaypalFilled.svg": [
+    "PageFilled.svg",
+    38.671875
+  ],
+  "PictureThemeOutlined.svg": [
+    "ChevronDownOutlined.svg",
+    58.59375
+  ],
+  "PreferenceFilled.svg": [
+    "MessageFilled.svg",
+    46.09375
+  ],
+  "Product3DFilled.svg": [
+    "DropdownFilled.svg",
+    33.203125
+  ],
+  "Product3DOutlined.svg": [
+    "RefreshOutlined.svg",
+    44.921875
+  ],
+  "ProductRecommendationFilled.svg": [
+    "RadioSelectionFilled.svg",
+    12.5
+  ],
+  "PushOutlined.svg": [
+    "ExitOutlined.svg",
+    17.1875
+  ],
+  "Rectangle38Outlined.svg": [
+    "ActivateOutlined.svg",
+    0
+  ],
+  "RefreshMajor1Outlined.svg": [
+    "SwitchOutlined.svg",
+    0
+  ],
+  "ReplaceThumbnailOutlined.svg": [
+    "RemarkFilled.svg",
+    55.46875
+  ],
+  "ReviewOutlined.svg": [
+    "CopyOutlined.svg",
+    52.34375
+  ],
+  "RevocationThemeOutlined.svg": [
+    "ChevronDownOutlined.svg",
+    41.796875
+  ],
+  "RiskFilled.svg": [
+    "DropdownFilled.svg",
+    31.640625
+  ],
+  "SecurityFilled.svg": [
+    "EnableSelectionFilled.svg",
+    27.734375
+  ],
+  "SetupGuideOutlined.svg": [
+    "CodeOutlined.svg",
+    49.21875
+  ],
+  "SizeChartFilled.svg": [
+    "PlayCircleFilled.svg",
+    17.1875
+  ],
+  "SlideshowThemeFilled1Outlined.svg": [
+    "SlideshowThemeFilled.svg",
+    0
+  ],
+  "StopAcceleratingOutlined.svg": [
+    "FlashlightOutlined.svg",
+    17.578125
+  ],
+  "SupportOutlined.svg": [
+    "SpinnerOutlined.svg",
+    46.484375
+  ],
+  "TextColumnsThemeFilled.svg": [
+    "DropdownFilled.svg",
+    44.921875
+  ],
+  "TippingFilled.svg": [
+    "CashDollarFilled.svg",
+    24.21875
+  ],
+  "TooltipOutlined.svg": [
+    "CircleDisabledOutlined.svg",
+    25.78125
+  ],
+  "TransactionHistoryFilled.svg": [
+    "EnableSelectionFilled.svg",
+    28.125
+  ],
+  "Type1Outlined.svg": [
+    "TypeOutlined.svg",
+    0
+  ],
+  "UserOutlined.svg": [
+    "ActivateOutlined.svg",
+    37.890625
+  ],
+  "VolumeDiscountFilled.svg": [
+    "DropdownFilled.svg",
+    17.1875
+  ],
+  "VolumeDiscountOutlined.svg": [
+    "CodeOutlined.svg",
+    46.09375
+  ],
+  "WaitingOutlined.svg": [
+    "CirclePlusOutlineOutlined.svg",
+    7.421875
+  ],
+  "WifiOutlined.svg": [
+    "CaretDownOutlined.svg",
+    38.28125
+  ],
+  "WithdrawOutlined.svg": [
+    "SortOutlined.svg",
+    40.234375
+  ],
+  "ZeroGrowthOutlined.svg": [
+    "PlusOutlined.svg",
+    10.9375
+  ],
+  "ZoomInOutlined.svg": [
+    "EditFilled.svg",
+    50.390625
+  ],
+  "ZoomOutOutlined.svg": [
+    "ChevronUpOutlined.svg",
+    51.171875
+  ],
+  "FacebookFilled.svg": [
+    "RadioSelectionFilled.svg",
+    19.53125
+  ],
+  "FacebookOutlined.svg": [
+    "UnfulfilledFilled.svg",
+    51.5625
+  ],
+  "PaypalOutlined.svg": [
+    "ChevronLeftOutlined.svg",
+    60.546875
+  ],
+  "PlayFilled.svg": [
+    "CircleOutlined.svg",
+    28.90625
+  ],
+  "SendFilled.svg": [
+    "CircleOutlined.svg",
+    39.84375
+  ],
+  "SendOutlined.svg": [
+    "CircleOutlined.svg",
+    26.953125
+  ],
+  "ShopifyOutlined.svg": [
+    "CopyOutlined.svg",
+    52.34375
+  ],
+  "ViewOutlined.svg": [
+    "InstagramFilled.svg",
+    37.5
+  ]
+}

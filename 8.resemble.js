@@ -18,7 +18,7 @@ async function getDiff(path1, path2) {
 		// 	outputDiff: true,
 		// },
 		scaleToSameSize: true,
-		ignore: "antialiasing",
+		ignore: ["less", "antialiasing", "colors", "alpha"],
 	};
 
 	const data = await compareImages(await fs.readFile(path1), await fs.readFile(path2), options);
@@ -29,14 +29,14 @@ async function getDiff(path1, path2) {
 	// await fs.writeFile("./output.png", data.getBuffer());
 }
 
-getDiff("./old_svg/WaitingOutlined.svg", "./new_svg/CirclePlusOutlineOutlined.svg").then(res => {
-	console.log(res); 
-});
+// getDiff("./old_svg/WaitingOutlined.svg", "./new_svg/CirclePlusOutlineOutlined.svg").then(res => {
+// 	console.log(res);
+// });
 
 function transName(filename) {
 	let [name, ext] = filename.split(".");
 
-	if (!/(-filled|Filled|Outlined)$/.test(name)) {
+	if (!/(-filled|Filled|Outlined)$/i.test(name)) {
 		// if (!name.endsWith("-filled") && !name.endsWith("Outlined")) {
 		name += "-outlined";
 	}
@@ -51,16 +51,15 @@ function transName(filename) {
 async function run() {
 	let [newDir, oldDir] = await Promise.all([fs.readdir("./new_svg"), fs.readdir("./old_svg")]);
 
-	// format name
-	newDir.forEach((name, i) => {
-		newDir[i] = transName(name);
-		fs.rename(`./new_svg/${name}`, `./new_svg/${newDir[i]}`);
-	});
-	oldDir.forEach((name, i) => {
-		oldDir[i] = transName(name);
-		fs.rename(`./old_svg/${name}`, `./old_svg/${oldDir[i]}`);
-	});
-
+	// ------------------ format name ------------------
+	// newDir.forEach((name, i) => {
+	// 	newDir[i] = transName(name);
+	// 	fs.rename(`./new_svg/${name}`, `./new_svg/${newDir[i]}`);
+	// });
+	// oldDir.forEach((name, i) => {
+	// 	oldDir[i] = transName(name);
+	// 	fs.rename(`./old_svg/${name}`, `./old_svg/${oldDir[i]}`);
+	// });
 	// --------------------------------------------------
 
 	const res = {
@@ -118,4 +117,21 @@ async function run() {
 	}
 }
 
-// run();
+run();
+
+// ------------------ get most similar icon ------------------
+const distances = require("./distance.json");
+
+function setMostMatch() {
+	const mostMatches = {};
+	Object.keys(distances).forEach(key => {
+		distances[key] = Object.entries(distances[key]).sort((d1, d2) => d1[1] - d2[1]);
+		mostMatches[key] = distances[key][0];
+	});
+
+	fs.writeFile("./record/match.json", JSON.stringify(mostMatches, null, 2), { encoding: "utf-8" });
+}
+
+setMostMatch();
+
+// -----------------------------------------------------------
