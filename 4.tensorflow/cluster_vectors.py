@@ -12,13 +12,12 @@ chart_image_positions = {}
 # config
 dims = 2048
 
-# NOTE: 给定图像最相似的 30 张图像
 n_nearest_neighbors = 30
 trees = 10000
 infiles = glob.glob('image_vectors/*.npz')
 
 # build ann index
-t = AnnoyIndex(dims)
+t = AnnoyIndex(dims,metric='angular')
 for file_index, i in enumerate(infiles):
   file_vector = np.loadtxt(i)
   file_name = os.path.basename(i).split('.')[0]

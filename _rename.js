@@ -1,14 +1,17 @@
 const fs = require("fs/promises");
 
-const from = "old_png";
-const to = "new_png";
+const from = "old_svg";
+const to = "new_svg";
 
 function transName(filename) {
 	let [name, ext] = filename.split(".");
 
-	if (!/(-filled|Filled|Outlined)$/.test) {
+	if (!/(-filled|Filled|Outlined)$/.test(name)) {
 		// if (!name.endsWith("-filled") && !name.endsWith("Outlined")) {
 		name += "-outlined";
+	}
+	if (/outline$/.test(name)) {
+		name += "d";
 	}
 
 	name = name.replaceAll(/[\s-](\w)/g, (m, n) => n.toUpperCase());

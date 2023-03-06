@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    div {
+      display: flex;
+      gap: 20px;
+      align-items: center;
+      border: 1px solid #ccc;
+      margin: 8px;
+    }
+
+    h3 {
+      height: 100px;
+      padding: 16px;
+      margin: 0;
+      border-right: 2px solid #ccc;
+      align-items: center;
+      display: flex;
+      gap: 8px;
+    }
+
+    section {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <script type="module">
+    import matches from "./res.json" assert {type: "json"};
+
+    function render() {
+      const imgStr = (matches)
+        .map(
+          (item) => `  
+            <div>
+              <h3> <span>${item.oldName}</span>
+      <img src="${item.oldPath}" style="height: 30px" alt="oldname">
+    </h3>
+            ${item.list.map(entity =>
+            `
+              <section> 
+                <img src="${entity.newPath}" style="height: 30px" alt="">
+                <span>${entity.newName}</span>
+                <span style="color:${entity.similarity > 0.9 ? " #21a470" : "#eb4646"}">${(entity.similarity * 100).toFixed(2)}%</span>
+              </section>
+              `
+          ).join("")}
+            </div>`
+        )
+        .join("\n");
+
+      document.body.innerHTML += imgStr
+
+    }
+
+    render()
+
+  </script>
+</body>
+
+</html>

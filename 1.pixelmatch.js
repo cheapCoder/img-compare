@@ -6,7 +6,7 @@ const pixelmatch = require("pixelmatch");
 function transName(filename) {
 	let [name, ext] = filename.split(".");
 
-	if (!/(-filled|Filled|Outlined)$/.test) {
+	if (!/(-filled|Filled|Outlined)$/.test(name)) {
 		// if (!name.endsWith("-filled") && !name.endsWith("Outlined")) {
 		name += "-outlined";
 	}
