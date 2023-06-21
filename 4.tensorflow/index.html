@@ -11,7 +11,8 @@
       display: flex;
       gap: 20px;
       align-items: center;
-      border: 1px solid #ccc;
+      border-bottom: 1px solid #ccc;
+      border-top: 1px solid #ccc;
       margin: 8px;
     }
 
@@ -32,15 +33,27 @@
       align-items: center;
       gap: 8px;
     }
+
+    .same {
+      /* flex-wrap: wrap; */
+      padding: 4px 20px;
+      display: inline-flex;
+      gap: 10px;
+      padding-bottom: 20px;
+      align-items: center;
+      width: 45%;
+      border: 1px solid #ccc;
+    }
   </style>
 </head>
 
 <body>
 
   <script type="module">
+    // render different
     import matches from "./res.json" assert {type: "json"};
 
-    function render() {
+    function renderDiff() {
       const imgStr = (matches)
         .map(
           (item) => `  
@@ -62,11 +75,32 @@
         .join("\n");
 
       document.body.innerHTML += imgStr
-
     }
+    renderDiff()
 
-    render()
 
+    // render same
+    import Same from "./same.json" assert {type: "json"};
+
+    function renderSame() {
+      const imgStr = (Same)
+        .map(
+          (item) => `  
+        <div class="same">
+          <span>${item.name}</span>
+          <img src="${item.oldPath}" style="height: 30px" alt="oldname">
+          </h3>
+          <span style="color:${item.similarity > 0.9 ? " #21a470" : "#eb4646"}">${(item.similarity * 100).toFixed(2)}%</span>
+          <img src="${item.newPath}" style="height: 30px" alt="">
+          <span>${item.name}</span>
+        </div>`
+        )
+        .join("\n");
+
+      document.body.innerHTML += imgStr
+    }
+    document.body.innerHTML += '<h1>同名icons</h1>'
+    renderSame()
   </script>
 </body>
 

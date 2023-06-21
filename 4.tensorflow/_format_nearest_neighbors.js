@@ -20,7 +20,12 @@ async function run() {
 		if (["Rectangle38Outlined", "Type1Outlined", "TypeOutlined"].includes(oldName)) return;
 
 		if (oldName === similarList[0].filename.replace("NEW-", "")) {
-			same.push(oldName);
+			same.push({
+				name: oldName,
+				similarity: similarList[0].similarity,
+				oldPath: join("./images_svg", `OLD-${oldName}.svg`),
+				newPath:join("./images_svg", `NEW-${oldName}.svg`),
+			});
 			return;
 		}
 

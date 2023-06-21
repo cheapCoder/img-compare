@@ -119,19 +119,35 @@ async function run() {
 
 run();
 
-// ------------------ get most similar icon ------------------
-const distances = require("./distance.json");
+// // ------------------ get most similar icon ------------------
+// const distances = require("./distance.json");
 
-function setMostMatch() {
-	const mostMatches = {};
-	Object.keys(distances).forEach(key => {
-		distances[key] = Object.entries(distances[key]).sort((d1, d2) => d1[1] - d2[1]);
-		mostMatches[key] = distances[key][0];
-	});
+// function setMostMatch() {
+// 	const mostMatches = {};
+// 	Object.keys(distances).forEach(key => {
+// 		distances[key] = Object.entries(distances[key]).sort((d1, d2) => d1[1] - d2[1]);
+// 		mostMatches[key] = distances[key][0];
+// 	});
 
-	fs.writeFile("./record/match.json", JSON.stringify(mostMatches, null, 2), { encoding: "utf-8" });
-}
+// 	fs.writeFile("./record/match.json", JSON.stringify(mostMatches, null, 2), { encoding: "utf-8" });
+// }
 
-setMostMatch();
+// setMostMatch();
 
-// -----------------------------------------------------------
+// // -----------------------------------------------------------
+
+// // ------------------ sort distance ------- ------------------
+// function sort() {
+// 	const distances = require("./distance.json");
+// 	Object.keys(distances).forEach(k => {
+// 		distances[k] = Object.fromEntries(
+// 			Object.entries(distances[k]).sort(([name1, dis1], [name2, dis2]) => dis1 - dis2)
+// 		);
+// 	});
+
+// 	fs.writeFile("./distance.json", JSON.stringify(distances, null, 2), { encoding: "utf-8" });
+// }
+
+// sort();
+
+// // -----------------------------------------------------------

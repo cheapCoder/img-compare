@@ -1,1 +1,1160 @@
-["ActivateOutlined","AddDomainOutlined","AddOutlined","AddProductFilled","AlertFilled","AnalysisFilled","AnalyticsOutlined","AppsFilled","ArchiveFilled","ArrowDownOutlined","ArrowLeftOutlined","ArrowRightOutlined","ArrowUpOutlined","AttachmentOutlined","BalanceFilled","BillingFilled","BlogFilled","BoldOutlined","ButtonFilled","BuybuttonOutlined","CameraOutlined","CancelOutlined","CancelSmallOutlined","CaretDownOutlined","CaretUpOutlined","CashDollarFilled","ChatFilled","CheckoutFilled","ChevronDownOutlined","ChevronLeftOutlined","ChevronRightOutlined","ChevronUpOutlined","CircleCancelFilled","CircleDisabledOutlined","CircleOutlined","CirclePlusOutlineFilled","CirclePlusOutlineOutlined","CircleRightFilled","CircleTickFilled","ClokcFilled","CodeOutlined","CollectionsFilled","CollpaseOutlined","ColorDropperOutlined","ColorFilled","ColumnOutlined","ConfettiFilled","CopyOutlined","CreditCardCancelFilled","CreditCardFilled","CropOutlined","CustomerFilled","DashboardFilled","DataOutlined","DeleteLargeOutlined","DeleteOutlined","DesktopFilled","DiscountsFilled","DomainsOutlined","DragHandleOutlined","DropdownFilled","DropdownOutlined","DuplicateFilled","DynamicSourceOutlined","EditFilled","EmialFilled","EnableSelectionFilled","ExitOutlined","ExpandOutlined","ExportOutlined","ExternalOutlined","FAQFilled","FactCheckFilled","FallingOutlined","FavoriteFilled","FeaturedContentFilled","FeaturedFilled","FileFilled","FinancesFilled","FinancesOutlined","FlagFilled","FlashlightOutlined","FooterOutlined","GiftCardFilled","GlobeOutlined","GoogleOutlined","HashtagOutlined","HeaderOutlined","HideFilled","HomeFilled","ImageFilled","ImagesFilled","ImportOutlined","ImportStoreOutlined","InfoFilled","InsertDynamicSourceOutlined","InspectOutlined","InterchangeOutlined","ItalicsOutlined","LinkOutlined","ListFilled","LoadingOutlined","LocationFilled","LockFilled","LogoBlockOutlined","LogoListFilled","ManageStoreFilled","MarketingFilled","MarketingOutlined","MaximizeOutlined","MeasurementOutlined","MediaLibraryFilled","MessageFilled","MessageTipsFilled","MetaOutlined","MetafieldsFilled","MobileFilled","MobileHorizontalDotsOutlined","MobileVerticalDotsOutlined","MoneyOutlined","MoveDownOutlined","MoveUpOutlined","NotificationFilled","NotificationTipsFilled","OnlineStoreFilled","OrderFilled","OrdersFilled","OthersFilled","PackageOutlined","PageFilled","PaymentsOutlined","PhoneFilled","PinFilled","PinOutlined","PlanFilled","PlayCircleFilled","PluginScanOutlined","PlusOutlined","PolicyOutlined","ProductFilled","ProductFilled1Outlined","ProductsFilled","ProfileFilled","PullUpOutlined","QuestionMarkFilled","RadioSelectionFilled","RedoOutlined","RefreshOutlined","RemarkFilled","ReviewFlowFilled","ReviewsFilled","RightSidebarOutlined","RisingOutlined","SearchListFilled","SearchOutlined","SectionOutlined","ServersFilled","SettingsFilled","ShipmentFilled","ShowFilled","SitemapOutlined","SlideshowThemeFilled","SnapchatOutlined","SortOutlined","SpinnerOutlined","StarOutlined","StoreFilled","SwitchOutlined","TaxFilled","TemplateFilled","TexTalignmentLeftOutlined","TextBlockFilled","TextFilled","TextOutlined","ThemeStoreFilled","ThemesFilled","TiktokOutlined","TitleOutlined","ToTopOutlined","ToggleFilled","ToolsFilled","TransferOutlined","UndoOutlined","UnfulfilledFilled","VSOutlined","VariantsOutlined","VideoFilled","ViewListOutlined","ViewportWideOutlined","WahtsappFilled","WarningFilled","WifiFilled","WifiOffFilled"]
+[
+  {
+    "name": "ActivateOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ActivateOutlined.svg",
+    "newPath": "images_svg/NEW-ActivateOutlined.svg"
+  },
+  {
+    "name": "AddDomainOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-AddDomainOutlined.svg",
+    "newPath": "images_svg/NEW-AddDomainOutlined.svg"
+  },
+  {
+    "name": "AddOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-AddOutlined.svg",
+    "newPath": "images_svg/NEW-AddOutlined.svg"
+  },
+  {
+    "name": "AddProductFilled",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-AddProductFilled.svg",
+    "newPath": "images_svg/NEW-AddProductFilled.svg"
+  },
+  {
+    "name": "AlertFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-AlertFilled.svg",
+    "newPath": "images_svg/NEW-AlertFilled.svg"
+  },
+  {
+    "name": "AnalysisFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-AnalysisFilled.svg",
+    "newPath": "images_svg/NEW-AnalysisFilled.svg"
+  },
+  {
+    "name": "AnalyticsOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-AnalyticsOutlined.svg",
+    "newPath": "images_svg/NEW-AnalyticsOutlined.svg"
+  },
+  {
+    "name": "AppsFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-AppsFilled.svg",
+    "newPath": "images_svg/NEW-AppsFilled.svg"
+  },
+  {
+    "name": "ArchiveFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ArchiveFilled.svg",
+    "newPath": "images_svg/NEW-ArchiveFilled.svg"
+  },
+  {
+    "name": "ArrowDownOutlined",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-ArrowDownOutlined.svg",
+    "newPath": "images_svg/NEW-ArrowDownOutlined.svg"
+  },
+  {
+    "name": "ArrowLeftOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ArrowLeftOutlined.svg",
+    "newPath": "images_svg/NEW-ArrowLeftOutlined.svg"
+  },
+  {
+    "name": "ArrowRightOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ArrowRightOutlined.svg",
+    "newPath": "images_svg/NEW-ArrowRightOutlined.svg"
+  },
+  {
+    "name": "ArrowUpOutlined",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-ArrowUpOutlined.svg",
+    "newPath": "images_svg/NEW-ArrowUpOutlined.svg"
+  },
+  {
+    "name": "AttachmentOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-AttachmentOutlined.svg",
+    "newPath": "images_svg/NEW-AttachmentOutlined.svg"
+  },
+  {
+    "name": "BalanceFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-BalanceFilled.svg",
+    "newPath": "images_svg/NEW-BalanceFilled.svg"
+  },
+  {
+    "name": "BillingFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-BillingFilled.svg",
+    "newPath": "images_svg/NEW-BillingFilled.svg"
+  },
+  {
+    "name": "BlogFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-BlogFilled.svg",
+    "newPath": "images_svg/NEW-BlogFilled.svg"
+  },
+  {
+    "name": "BoldOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-BoldOutlined.svg",
+    "newPath": "images_svg/NEW-BoldOutlined.svg"
+  },
+  {
+    "name": "ButtonFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ButtonFilled.svg",
+    "newPath": "images_svg/NEW-ButtonFilled.svg"
+  },
+  {
+    "name": "BuybuttonOutlined",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-BuybuttonOutlined.svg",
+    "newPath": "images_svg/NEW-BuybuttonOutlined.svg"
+  },
+  {
+    "name": "CameraOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CameraOutlined.svg",
+    "newPath": "images_svg/NEW-CameraOutlined.svg"
+  },
+  {
+    "name": "CancelOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CancelOutlined.svg",
+    "newPath": "images_svg/NEW-CancelOutlined.svg"
+  },
+  {
+    "name": "CancelSmallOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CancelSmallOutlined.svg",
+    "newPath": "images_svg/NEW-CancelSmallOutlined.svg"
+  },
+  {
+    "name": "CaretDownOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CaretDownOutlined.svg",
+    "newPath": "images_svg/NEW-CaretDownOutlined.svg"
+  },
+  {
+    "name": "CaretUpOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CaretUpOutlined.svg",
+    "newPath": "images_svg/NEW-CaretUpOutlined.svg"
+  },
+  {
+    "name": "CashDollarFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CashDollarFilled.svg",
+    "newPath": "images_svg/NEW-CashDollarFilled.svg"
+  },
+  {
+    "name": "ChatFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ChatFilled.svg",
+    "newPath": "images_svg/NEW-ChatFilled.svg"
+  },
+  {
+    "name": "CheckoutFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CheckoutFilled.svg",
+    "newPath": "images_svg/NEW-CheckoutFilled.svg"
+  },
+  {
+    "name": "ChevronDownOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ChevronDownOutlined.svg",
+    "newPath": "images_svg/NEW-ChevronDownOutlined.svg"
+  },
+  {
+    "name": "ChevronLeftOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ChevronLeftOutlined.svg",
+    "newPath": "images_svg/NEW-ChevronLeftOutlined.svg"
+  },
+  {
+    "name": "ChevronRightOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ChevronRightOutlined.svg",
+    "newPath": "images_svg/NEW-ChevronRightOutlined.svg"
+  },
+  {
+    "name": "ChevronUpOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ChevronUpOutlined.svg",
+    "newPath": "images_svg/NEW-ChevronUpOutlined.svg"
+  },
+  {
+    "name": "CircleCancelFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CircleCancelFilled.svg",
+    "newPath": "images_svg/NEW-CircleCancelFilled.svg"
+  },
+  {
+    "name": "CircleDisabledOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CircleDisabledOutlined.svg",
+    "newPath": "images_svg/NEW-CircleDisabledOutlined.svg"
+  },
+  {
+    "name": "CircleOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CircleOutlined.svg",
+    "newPath": "images_svg/NEW-CircleOutlined.svg"
+  },
+  {
+    "name": "CirclePlusOutlineFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CirclePlusOutlineFilled.svg",
+    "newPath": "images_svg/NEW-CirclePlusOutlineFilled.svg"
+  },
+  {
+    "name": "CirclePlusOutlineOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CirclePlusOutlineOutlined.svg",
+    "newPath": "images_svg/NEW-CirclePlusOutlineOutlined.svg"
+  },
+  {
+    "name": "CircleRightFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CircleRightFilled.svg",
+    "newPath": "images_svg/NEW-CircleRightFilled.svg"
+  },
+  {
+    "name": "CircleTickFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CircleTickFilled.svg",
+    "newPath": "images_svg/NEW-CircleTickFilled.svg"
+  },
+  {
+    "name": "ClokcFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ClokcFilled.svg",
+    "newPath": "images_svg/NEW-ClokcFilled.svg"
+  },
+  {
+    "name": "CodeOutlined",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-CodeOutlined.svg",
+    "newPath": "images_svg/NEW-CodeOutlined.svg"
+  },
+  {
+    "name": "CollectionsFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CollectionsFilled.svg",
+    "newPath": "images_svg/NEW-CollectionsFilled.svg"
+  },
+  {
+    "name": "CollpaseOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CollpaseOutlined.svg",
+    "newPath": "images_svg/NEW-CollpaseOutlined.svg"
+  },
+  {
+    "name": "ColorDropperOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ColorDropperOutlined.svg",
+    "newPath": "images_svg/NEW-ColorDropperOutlined.svg"
+  },
+  {
+    "name": "ColorFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ColorFilled.svg",
+    "newPath": "images_svg/NEW-ColorFilled.svg"
+  },
+  {
+    "name": "ColumnOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ColumnOutlined.svg",
+    "newPath": "images_svg/NEW-ColumnOutlined.svg"
+  },
+  {
+    "name": "ConfettiFilled",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-ConfettiFilled.svg",
+    "newPath": "images_svg/NEW-ConfettiFilled.svg"
+  },
+  {
+    "name": "CopyOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CopyOutlined.svg",
+    "newPath": "images_svg/NEW-CopyOutlined.svg"
+  },
+  {
+    "name": "CreditCardCancelFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CreditCardCancelFilled.svg",
+    "newPath": "images_svg/NEW-CreditCardCancelFilled.svg"
+  },
+  {
+    "name": "CreditCardFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CreditCardFilled.svg",
+    "newPath": "images_svg/NEW-CreditCardFilled.svg"
+  },
+  {
+    "name": "CropOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CropOutlined.svg",
+    "newPath": "images_svg/NEW-CropOutlined.svg"
+  },
+  {
+    "name": "CustomerFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-CustomerFilled.svg",
+    "newPath": "images_svg/NEW-CustomerFilled.svg"
+  },
+  {
+    "name": "DashboardFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-DashboardFilled.svg",
+    "newPath": "images_svg/NEW-DashboardFilled.svg"
+  },
+  {
+    "name": "DataOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-DataOutlined.svg",
+    "newPath": "images_svg/NEW-DataOutlined.svg"
+  },
+  {
+    "name": "DeleteLargeOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-DeleteLargeOutlined.svg",
+    "newPath": "images_svg/NEW-DeleteLargeOutlined.svg"
+  },
+  {
+    "name": "DeleteOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-DeleteOutlined.svg",
+    "newPath": "images_svg/NEW-DeleteOutlined.svg"
+  },
+  {
+    "name": "DesktopFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-DesktopFilled.svg",
+    "newPath": "images_svg/NEW-DesktopFilled.svg"
+  },
+  {
+    "name": "DiscountsFilled",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-DiscountsFilled.svg",
+    "newPath": "images_svg/NEW-DiscountsFilled.svg"
+  },
+  {
+    "name": "DomainsOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-DomainsOutlined.svg",
+    "newPath": "images_svg/NEW-DomainsOutlined.svg"
+  },
+  {
+    "name": "DragHandleOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-DragHandleOutlined.svg",
+    "newPath": "images_svg/NEW-DragHandleOutlined.svg"
+  },
+  {
+    "name": "DropdownFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-DropdownFilled.svg",
+    "newPath": "images_svg/NEW-DropdownFilled.svg"
+  },
+  {
+    "name": "DropdownOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-DropdownOutlined.svg",
+    "newPath": "images_svg/NEW-DropdownOutlined.svg"
+  },
+  {
+    "name": "DuplicateFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-DuplicateFilled.svg",
+    "newPath": "images_svg/NEW-DuplicateFilled.svg"
+  },
+  {
+    "name": "DynamicSourceOutlined",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-DynamicSourceOutlined.svg",
+    "newPath": "images_svg/NEW-DynamicSourceOutlined.svg"
+  },
+  {
+    "name": "EditFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-EditFilled.svg",
+    "newPath": "images_svg/NEW-EditFilled.svg"
+  },
+  {
+    "name": "EmialFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-EmialFilled.svg",
+    "newPath": "images_svg/NEW-EmialFilled.svg"
+  },
+  {
+    "name": "EnableSelectionFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-EnableSelectionFilled.svg",
+    "newPath": "images_svg/NEW-EnableSelectionFilled.svg"
+  },
+  {
+    "name": "ExitOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ExitOutlined.svg",
+    "newPath": "images_svg/NEW-ExitOutlined.svg"
+  },
+  {
+    "name": "ExpandOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ExpandOutlined.svg",
+    "newPath": "images_svg/NEW-ExpandOutlined.svg"
+  },
+  {
+    "name": "ExportOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ExportOutlined.svg",
+    "newPath": "images_svg/NEW-ExportOutlined.svg"
+  },
+  {
+    "name": "ExternalOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ExternalOutlined.svg",
+    "newPath": "images_svg/NEW-ExternalOutlined.svg"
+  },
+  {
+    "name": "FAQFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-FAQFilled.svg",
+    "newPath": "images_svg/NEW-FAQFilled.svg"
+  },
+  {
+    "name": "FactCheckFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-FactCheckFilled.svg",
+    "newPath": "images_svg/NEW-FactCheckFilled.svg"
+  },
+  {
+    "name": "FallingOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-FallingOutlined.svg",
+    "newPath": "images_svg/NEW-FallingOutlined.svg"
+  },
+  {
+    "name": "FavoriteFilled",
+    "similarity": 0.9883,
+    "oldPath": "images_svg/OLD-FavoriteFilled.svg",
+    "newPath": "images_svg/NEW-FavoriteFilled.svg"
+  },
+  {
+    "name": "FeaturedContentFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-FeaturedContentFilled.svg",
+    "newPath": "images_svg/NEW-FeaturedContentFilled.svg"
+  },
+  {
+    "name": "FeaturedFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-FeaturedFilled.svg",
+    "newPath": "images_svg/NEW-FeaturedFilled.svg"
+  },
+  {
+    "name": "FileFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-FileFilled.svg",
+    "newPath": "images_svg/NEW-FileFilled.svg"
+  },
+  {
+    "name": "FinancesFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-FinancesFilled.svg",
+    "newPath": "images_svg/NEW-FinancesFilled.svg"
+  },
+  {
+    "name": "FinancesOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-FinancesOutlined.svg",
+    "newPath": "images_svg/NEW-FinancesOutlined.svg"
+  },
+  {
+    "name": "FlagFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-FlagFilled.svg",
+    "newPath": "images_svg/NEW-FlagFilled.svg"
+  },
+  {
+    "name": "FlashlightOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-FlashlightOutlined.svg",
+    "newPath": "images_svg/NEW-FlashlightOutlined.svg"
+  },
+  {
+    "name": "FooterOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-FooterOutlined.svg",
+    "newPath": "images_svg/NEW-FooterOutlined.svg"
+  },
+  {
+    "name": "GiftCardFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-GiftCardFilled.svg",
+    "newPath": "images_svg/NEW-GiftCardFilled.svg"
+  },
+  {
+    "name": "GlobeOutlined",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-GlobeOutlined.svg",
+    "newPath": "images_svg/NEW-GlobeOutlined.svg"
+  },
+  {
+    "name": "GoogleOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-GoogleOutlined.svg",
+    "newPath": "images_svg/NEW-GoogleOutlined.svg"
+  },
+  {
+    "name": "HashtagOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-HashtagOutlined.svg",
+    "newPath": "images_svg/NEW-HashtagOutlined.svg"
+  },
+  {
+    "name": "HeaderOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-HeaderOutlined.svg",
+    "newPath": "images_svg/NEW-HeaderOutlined.svg"
+  },
+  {
+    "name": "HideFilled",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-HideFilled.svg",
+    "newPath": "images_svg/NEW-HideFilled.svg"
+  },
+  {
+    "name": "HomeFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-HomeFilled.svg",
+    "newPath": "images_svg/NEW-HomeFilled.svg"
+  },
+  {
+    "name": "ImageFilled",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-ImageFilled.svg",
+    "newPath": "images_svg/NEW-ImageFilled.svg"
+  },
+  {
+    "name": "ImagesFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ImagesFilled.svg",
+    "newPath": "images_svg/NEW-ImagesFilled.svg"
+  },
+  {
+    "name": "ImportOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ImportOutlined.svg",
+    "newPath": "images_svg/NEW-ImportOutlined.svg"
+  },
+  {
+    "name": "ImportStoreOutlined",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-ImportStoreOutlined.svg",
+    "newPath": "images_svg/NEW-ImportStoreOutlined.svg"
+  },
+  {
+    "name": "InfoFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-InfoFilled.svg",
+    "newPath": "images_svg/NEW-InfoFilled.svg"
+  },
+  {
+    "name": "InsertDynamicSourceOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-InsertDynamicSourceOutlined.svg",
+    "newPath": "images_svg/NEW-InsertDynamicSourceOutlined.svg"
+  },
+  {
+    "name": "InspectOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-InspectOutlined.svg",
+    "newPath": "images_svg/NEW-InspectOutlined.svg"
+  },
+  {
+    "name": "InterchangeOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-InterchangeOutlined.svg",
+    "newPath": "images_svg/NEW-InterchangeOutlined.svg"
+  },
+  {
+    "name": "ItalicsOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ItalicsOutlined.svg",
+    "newPath": "images_svg/NEW-ItalicsOutlined.svg"
+  },
+  {
+    "name": "LinkOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-LinkOutlined.svg",
+    "newPath": "images_svg/NEW-LinkOutlined.svg"
+  },
+  {
+    "name": "ListFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ListFilled.svg",
+    "newPath": "images_svg/NEW-ListFilled.svg"
+  },
+  {
+    "name": "LoadingOutlined",
+    "similarity": 0.9968,
+    "oldPath": "images_svg/OLD-LoadingOutlined.svg",
+    "newPath": "images_svg/NEW-LoadingOutlined.svg"
+  },
+  {
+    "name": "LocationFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-LocationFilled.svg",
+    "newPath": "images_svg/NEW-LocationFilled.svg"
+  },
+  {
+    "name": "LockFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-LockFilled.svg",
+    "newPath": "images_svg/NEW-LockFilled.svg"
+  },
+  {
+    "name": "LogoBlockOutlined",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-LogoBlockOutlined.svg",
+    "newPath": "images_svg/NEW-LogoBlockOutlined.svg"
+  },
+  {
+    "name": "LogoListFilled",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-LogoListFilled.svg",
+    "newPath": "images_svg/NEW-LogoListFilled.svg"
+  },
+  {
+    "name": "ManageStoreFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ManageStoreFilled.svg",
+    "newPath": "images_svg/NEW-ManageStoreFilled.svg"
+  },
+  {
+    "name": "MarketingFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-MarketingFilled.svg",
+    "newPath": "images_svg/NEW-MarketingFilled.svg"
+  },
+  {
+    "name": "MarketingOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-MarketingOutlined.svg",
+    "newPath": "images_svg/NEW-MarketingOutlined.svg"
+  },
+  {
+    "name": "MaximizeOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-MaximizeOutlined.svg",
+    "newPath": "images_svg/NEW-MaximizeOutlined.svg"
+  },
+  {
+    "name": "MeasurementOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-MeasurementOutlined.svg",
+    "newPath": "images_svg/NEW-MeasurementOutlined.svg"
+  },
+  {
+    "name": "MediaLibraryFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-MediaLibraryFilled.svg",
+    "newPath": "images_svg/NEW-MediaLibraryFilled.svg"
+  },
+  {
+    "name": "MessageFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-MessageFilled.svg",
+    "newPath": "images_svg/NEW-MessageFilled.svg"
+  },
+  {
+    "name": "MessageTipsFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-MessageTipsFilled.svg",
+    "newPath": "images_svg/NEW-MessageTipsFilled.svg"
+  },
+  {
+    "name": "MetaOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-MetaOutlined.svg",
+    "newPath": "images_svg/NEW-MetaOutlined.svg"
+  },
+  {
+    "name": "MetafieldsFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-MetafieldsFilled.svg",
+    "newPath": "images_svg/NEW-MetafieldsFilled.svg"
+  },
+  {
+    "name": "MobileFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-MobileFilled.svg",
+    "newPath": "images_svg/NEW-MobileFilled.svg"
+  },
+  {
+    "name": "MobileHorizontalDotsOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-MobileHorizontalDotsOutlined.svg",
+    "newPath": "images_svg/NEW-MobileHorizontalDotsOutlined.svg"
+  },
+  {
+    "name": "MobileVerticalDotsOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-MobileVerticalDotsOutlined.svg",
+    "newPath": "images_svg/NEW-MobileVerticalDotsOutlined.svg"
+  },
+  {
+    "name": "MoneyOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-MoneyOutlined.svg",
+    "newPath": "images_svg/NEW-MoneyOutlined.svg"
+  },
+  {
+    "name": "MoveDownOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-MoveDownOutlined.svg",
+    "newPath": "images_svg/NEW-MoveDownOutlined.svg"
+  },
+  {
+    "name": "MoveUpOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-MoveUpOutlined.svg",
+    "newPath": "images_svg/NEW-MoveUpOutlined.svg"
+  },
+  {
+    "name": "NotificationFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-NotificationFilled.svg",
+    "newPath": "images_svg/NEW-NotificationFilled.svg"
+  },
+  {
+    "name": "NotificationTipsFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-NotificationTipsFilled.svg",
+    "newPath": "images_svg/NEW-NotificationTipsFilled.svg"
+  },
+  {
+    "name": "OnlineStoreFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-OnlineStoreFilled.svg",
+    "newPath": "images_svg/NEW-OnlineStoreFilled.svg"
+  },
+  {
+    "name": "OrderFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-OrderFilled.svg",
+    "newPath": "images_svg/NEW-OrderFilled.svg"
+  },
+  {
+    "name": "OrdersFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-OrdersFilled.svg",
+    "newPath": "images_svg/NEW-OrdersFilled.svg"
+  },
+  {
+    "name": "OthersFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-OthersFilled.svg",
+    "newPath": "images_svg/NEW-OthersFilled.svg"
+  },
+  {
+    "name": "PackageOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-PackageOutlined.svg",
+    "newPath": "images_svg/NEW-PackageOutlined.svg"
+  },
+  {
+    "name": "PageFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-PageFilled.svg",
+    "newPath": "images_svg/NEW-PageFilled.svg"
+  },
+  {
+    "name": "PaymentsOutlined",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-PaymentsOutlined.svg",
+    "newPath": "images_svg/NEW-PaymentsOutlined.svg"
+  },
+  {
+    "name": "PhoneFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-PhoneFilled.svg",
+    "newPath": "images_svg/NEW-PhoneFilled.svg"
+  },
+  {
+    "name": "PinFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-PinFilled.svg",
+    "newPath": "images_svg/NEW-PinFilled.svg"
+  },
+  {
+    "name": "PinOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-PinOutlined.svg",
+    "newPath": "images_svg/NEW-PinOutlined.svg"
+  },
+  {
+    "name": "PlanFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-PlanFilled.svg",
+    "newPath": "images_svg/NEW-PlanFilled.svg"
+  },
+  {
+    "name": "PlayCircleFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-PlayCircleFilled.svg",
+    "newPath": "images_svg/NEW-PlayCircleFilled.svg"
+  },
+  {
+    "name": "PluginScanOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-PluginScanOutlined.svg",
+    "newPath": "images_svg/NEW-PluginScanOutlined.svg"
+  },
+  {
+    "name": "PlusOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-PlusOutlined.svg",
+    "newPath": "images_svg/NEW-PlusOutlined.svg"
+  },
+  {
+    "name": "PolicyOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-PolicyOutlined.svg",
+    "newPath": "images_svg/NEW-PolicyOutlined.svg"
+  },
+  {
+    "name": "ProductFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ProductFilled.svg",
+    "newPath": "images_svg/NEW-ProductFilled.svg"
+  },
+  {
+    "name": "ProductFilled1Outlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ProductFilled1Outlined.svg",
+    "newPath": "images_svg/NEW-ProductFilled1Outlined.svg"
+  },
+  {
+    "name": "ProductsFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ProductsFilled.svg",
+    "newPath": "images_svg/NEW-ProductsFilled.svg"
+  },
+  {
+    "name": "ProfileFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ProfileFilled.svg",
+    "newPath": "images_svg/NEW-ProfileFilled.svg"
+  },
+  {
+    "name": "PullUpOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-PullUpOutlined.svg",
+    "newPath": "images_svg/NEW-PullUpOutlined.svg"
+  },
+  {
+    "name": "QuestionMarkFilled",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-QuestionMarkFilled.svg",
+    "newPath": "images_svg/NEW-QuestionMarkFilled.svg"
+  },
+  {
+    "name": "RadioSelectionFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-RadioSelectionFilled.svg",
+    "newPath": "images_svg/NEW-RadioSelectionFilled.svg"
+  },
+  {
+    "name": "RedoOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-RedoOutlined.svg",
+    "newPath": "images_svg/NEW-RedoOutlined.svg"
+  },
+  {
+    "name": "RefreshOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-RefreshOutlined.svg",
+    "newPath": "images_svg/NEW-RefreshOutlined.svg"
+  },
+  {
+    "name": "RemarkFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-RemarkFilled.svg",
+    "newPath": "images_svg/NEW-RemarkFilled.svg"
+  },
+  {
+    "name": "ReviewFlowFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ReviewFlowFilled.svg",
+    "newPath": "images_svg/NEW-ReviewFlowFilled.svg"
+  },
+  {
+    "name": "ReviewsFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ReviewsFilled.svg",
+    "newPath": "images_svg/NEW-ReviewsFilled.svg"
+  },
+  {
+    "name": "RightSidebarOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-RightSidebarOutlined.svg",
+    "newPath": "images_svg/NEW-RightSidebarOutlined.svg"
+  },
+  {
+    "name": "RisingOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-RisingOutlined.svg",
+    "newPath": "images_svg/NEW-RisingOutlined.svg"
+  },
+  {
+    "name": "SearchListFilled",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-SearchListFilled.svg",
+    "newPath": "images_svg/NEW-SearchListFilled.svg"
+  },
+  {
+    "name": "SearchOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-SearchOutlined.svg",
+    "newPath": "images_svg/NEW-SearchOutlined.svg"
+  },
+  {
+    "name": "SectionOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-SectionOutlined.svg",
+    "newPath": "images_svg/NEW-SectionOutlined.svg"
+  },
+  {
+    "name": "ServersFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ServersFilled.svg",
+    "newPath": "images_svg/NEW-ServersFilled.svg"
+  },
+  {
+    "name": "SettingsFilled",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-SettingsFilled.svg",
+    "newPath": "images_svg/NEW-SettingsFilled.svg"
+  },
+  {
+    "name": "ShipmentFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ShipmentFilled.svg",
+    "newPath": "images_svg/NEW-ShipmentFilled.svg"
+  },
+  {
+    "name": "ShowFilled",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-ShowFilled.svg",
+    "newPath": "images_svg/NEW-ShowFilled.svg"
+  },
+  {
+    "name": "SitemapOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-SitemapOutlined.svg",
+    "newPath": "images_svg/NEW-SitemapOutlined.svg"
+  },
+  {
+    "name": "SlideshowThemeFilled",
+    "similarity": 0.8688,
+    "oldPath": "images_svg/OLD-SlideshowThemeFilled.svg",
+    "newPath": "images_svg/NEW-SlideshowThemeFilled.svg"
+  },
+  {
+    "name": "SnapchatOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-SnapchatOutlined.svg",
+    "newPath": "images_svg/NEW-SnapchatOutlined.svg"
+  },
+  {
+    "name": "SortOutlined",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-SortOutlined.svg",
+    "newPath": "images_svg/NEW-SortOutlined.svg"
+  },
+  {
+    "name": "SpinnerOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-SpinnerOutlined.svg",
+    "newPath": "images_svg/NEW-SpinnerOutlined.svg"
+  },
+  {
+    "name": "StarOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-StarOutlined.svg",
+    "newPath": "images_svg/NEW-StarOutlined.svg"
+  },
+  {
+    "name": "StoreFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-StoreFilled.svg",
+    "newPath": "images_svg/NEW-StoreFilled.svg"
+  },
+  {
+    "name": "SwitchOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-SwitchOutlined.svg",
+    "newPath": "images_svg/NEW-SwitchOutlined.svg"
+  },
+  {
+    "name": "TaxFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-TaxFilled.svg",
+    "newPath": "images_svg/NEW-TaxFilled.svg"
+  },
+  {
+    "name": "TemplateFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-TemplateFilled.svg",
+    "newPath": "images_svg/NEW-TemplateFilled.svg"
+  },
+  {
+    "name": "TexTalignmentLeftOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-TexTalignmentLeftOutlined.svg",
+    "newPath": "images_svg/NEW-TexTalignmentLeftOutlined.svg"
+  },
+  {
+    "name": "TextBlockFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-TextBlockFilled.svg",
+    "newPath": "images_svg/NEW-TextBlockFilled.svg"
+  },
+  {
+    "name": "TextFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-TextFilled.svg",
+    "newPath": "images_svg/NEW-TextFilled.svg"
+  },
+  {
+    "name": "TextOutlined",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-TextOutlined.svg",
+    "newPath": "images_svg/NEW-TextOutlined.svg"
+  },
+  {
+    "name": "ThemeStoreFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ThemeStoreFilled.svg",
+    "newPath": "images_svg/NEW-ThemeStoreFilled.svg"
+  },
+  {
+    "name": "ThemesFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ThemesFilled.svg",
+    "newPath": "images_svg/NEW-ThemesFilled.svg"
+  },
+  {
+    "name": "TiktokOutlined",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-TiktokOutlined.svg",
+    "newPath": "images_svg/NEW-TiktokOutlined.svg"
+  },
+  {
+    "name": "TitleOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-TitleOutlined.svg",
+    "newPath": "images_svg/NEW-TitleOutlined.svg"
+  },
+  {
+    "name": "ToTopOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ToTopOutlined.svg",
+    "newPath": "images_svg/NEW-ToTopOutlined.svg"
+  },
+  {
+    "name": "ToggleFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ToggleFilled.svg",
+    "newPath": "images_svg/NEW-ToggleFilled.svg"
+  },
+  {
+    "name": "ToolsFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ToolsFilled.svg",
+    "newPath": "images_svg/NEW-ToolsFilled.svg"
+  },
+  {
+    "name": "TransferOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-TransferOutlined.svg",
+    "newPath": "images_svg/NEW-TransferOutlined.svg"
+  },
+  {
+    "name": "UndoOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-UndoOutlined.svg",
+    "newPath": "images_svg/NEW-UndoOutlined.svg"
+  },
+  {
+    "name": "UnfulfilledFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-UnfulfilledFilled.svg",
+    "newPath": "images_svg/NEW-UnfulfilledFilled.svg"
+  },
+  {
+    "name": "VSOutlined",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-VSOutlined.svg",
+    "newPath": "images_svg/NEW-VSOutlined.svg"
+  },
+  {
+    "name": "VariantsOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-VariantsOutlined.svg",
+    "newPath": "images_svg/NEW-VariantsOutlined.svg"
+  },
+  {
+    "name": "VideoFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-VideoFilled.svg",
+    "newPath": "images_svg/NEW-VideoFilled.svg"
+  },
+  {
+    "name": "ViewListOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ViewListOutlined.svg",
+    "newPath": "images_svg/NEW-ViewListOutlined.svg"
+  },
+  {
+    "name": "ViewportWideOutlined",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-ViewportWideOutlined.svg",
+    "newPath": "images_svg/NEW-ViewportWideOutlined.svg"
+  },
+  {
+    "name": "WahtsappFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-WahtsappFilled.svg",
+    "newPath": "images_svg/NEW-WahtsappFilled.svg"
+  },
+  {
+    "name": "WarningFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-WarningFilled.svg",
+    "newPath": "images_svg/NEW-WarningFilled.svg"
+  },
+  {
+    "name": "WifiFilled",
+    "similarity": 0.9999,
+    "oldPath": "images_svg/OLD-WifiFilled.svg",
+    "newPath": "images_svg/NEW-WifiFilled.svg"
+  },
+  {
+    "name": "WifiOffFilled",
+    "similarity": 1,
+    "oldPath": "images_svg/OLD-WifiOffFilled.svg",
+    "newPath": "images_svg/NEW-WifiOffFilled.svg"
+  }
+]
